@@ -1,4 +1,10 @@
-## Tools As Code 👋
+<p align="center"><a href="https://github.com/toolsascode"><image src="https://raw.githubusercontent.com/toolsascode/protomagic/main/assets/protomagic.png" style="width: 100px;"></a></p>
+
+# Tools As Code :rocket::rocket::rocket:
+
+This organization was created with the aim of sharing knowledge, tools, best practices and projects that can contribute significantly to the community.
+
+- [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 <!--
 
